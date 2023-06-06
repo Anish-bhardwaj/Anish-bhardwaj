@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Anish-bhardwaj
 - 👀 I’m interested in internship
-- 🌱 I’m currently learning FSWD
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me @anishbhardwaj1342005@gmail.com
 
