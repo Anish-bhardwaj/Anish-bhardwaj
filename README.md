@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anish-bhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="anish-bhardwaj" /> </p>
 
-- 🌱 Passionate full-stack developer with a focus on building scalable and performant web and mobile applications using **Next.js** and **React Native**.
+🌱 **Passionate full-stack developer** specializing in building scalable, performant, and user-friendly web and mobile applications with **Next.js** and **React Native**. Experienced with modern frontend and backend technologies, crafting seamless user experiences for both web and mobile platforms.
+
+🚀 I thrive in **agile development environments** and love collaborating on impactful projects. My focus is on writing clean, maintainable code while optimizing performance and scalability.
+
 
 - 📫 How to reach me **anishbhardwaj1342005@gmail.com**
 
