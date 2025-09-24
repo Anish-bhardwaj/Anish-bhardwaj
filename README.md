@@ -7,7 +7,7 @@
 
 🚀 I thrive in **agile development environments** and love collaborating on impactful projects. My focus is on writing clean, maintainable code while optimizing performance and scalability.
 
-- 📫 How to reach me **anishbhardwaj1342005@gmail.com**
+📫 How to reach me **anishbhardwaj1342005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
