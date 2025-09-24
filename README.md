@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anish-bhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="anish-bhardwaj" /> </p>
 
-- 🌱 I’m currently learning **Software Development**
+- 🌱 Passionate full-stack developer with a focus on building scalable and performant web and mobile applications using **Next.js** and **React Native**.
 
 - 📫 How to reach me **anishbhardwaj1342005@gmail.com**
 
